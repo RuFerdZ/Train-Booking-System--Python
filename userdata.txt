@@ -1,0 +1,9 @@
+0001/Mr.Janindu Alwis,4562
+0002/Miss.Thamadie Goonawardhana,21
+0003/Miss.Hasani Dilhari,600
+0004/Miss.Sayagi Asogan,2127
+0005/Mr.Rusiru Fernando,2100
+0006/Mr.Maithripala sirisena,5000
+0007/Mr.Ranil Wickramasighe,2
+0008/Mrs.vijeyakalaa,30
+0009/Mr.Mahi Rajapaksha,900
